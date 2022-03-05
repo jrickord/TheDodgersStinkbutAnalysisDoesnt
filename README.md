@@ -1,4 +1,4 @@
-# TheDodgersStinkbutAnalysisDoesnt
+# The Dodgers Stink but Analysis Doesnt
 Predicting the Best Day of the Week for Dodgers Game Promotions
 
 ![image](https://user-images.githubusercontent.com/24919040/156867975-93befa7f-8df7-43af-a1f3-bfc8f734f7a7.png)
